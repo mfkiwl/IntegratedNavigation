@@ -5,8 +5,11 @@ Due to I know little about computer copyright issue, this repository is not publ
 
 # INS/GNSS integrated navigation uses Openblas(http://www.openblas.net/), I really appreciate.
 
+# How to use?
+please see main.cc in src, main.cc is a example how to read data and how to set some arguments.
 Body coordinate: front-right-down
 navigation coordinate: north-east-down
+
 
 ins.h/ins.cc have implemented Allan Variance and coarse alignment. Allan Variance is not used in integrated navigation.
 
