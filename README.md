@@ -5,8 +5,8 @@ due to I know little about computer copyright issue, this repository is not publ
 
 # INS/GNSS integrated navigation uses Openblas(http://www.openblas.net/), I really appreciate.
 
-# Body coordinate: front-right-down
-# navigation coordinate: north-east-down
+Body coordinate: front-right-down
+navigation coordinate: north-east-down
 
 ins.h/ins.cc have implemented Allan Variance and coarse alignment. Allan Variance is not used in integrated navigation.
 
