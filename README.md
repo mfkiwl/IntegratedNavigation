@@ -1,4 +1,4 @@
-# IntegratedNavigation
+# Integrated Navigation
 integrated navigation using INS/GNSS
 
 Due to I know little about computer copyright issue, this repository is not publicly available.
