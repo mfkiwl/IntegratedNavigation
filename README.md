@@ -1,7 +1,7 @@
 # Integrated Navigation
 integrated navigation using INS/GNSS
 
-Due to I know little about computer copyright issue, this repository is not publicly available.
+# Due to I know little about computer copyright issue, this repository is not publicly available.
 
 # INS/GNSS integrated navigation uses Openblas(http://www.openblas.net/), I really appreciate.
 
